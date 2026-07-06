@@ -2,7 +2,7 @@
 
 This repository contains supporting files for my Final Year Project / ICCSCI 2026 research project.
 
-The uploaded files are used as evidence for testing, source code implementation, packet capture analysis, and result documentation.
+The files in this repository are provided as supporting evidence for source code implementation, Wireshark packet capture testing, and result documentation.
 
 ---
 
@@ -10,11 +10,11 @@ The uploaded files are used as evidence for testing, source code implementation,
 
 This repository is used to store project evidence and supporting files for academic review.
 
-The files in this repository include:
+The uploaded files focus on project testing and result analysis, including:
 
-- Wireshark packet capture files
 - Python source code
-- Testing results
+- Wireshark packet capture files
+- Testing result files
 - PDF result documents
 - Excel result files
 
@@ -29,43 +29,57 @@ ICCSCI2026/
 │
 ├── README.md
 │
-├── Packet Captures/
-│   ├── capture-file-01.pcapng
-│   ├── capture-file-02.pcapng
-│   └── capture-file-03.pcapng
-│
 ├── Python Source Code/
-│   ├── main.py
-│   ├── requirements.txt
-│   └── supporting-script.py
+│   └── network_performance_extractor.py
 │
-└── Results/
-    ├── testing-result-summary.xlsx
-    ├── result-report.pdf
-    └── additional-result-files
+├── Results/
+│   ├── Results.xlsx
+│   └── Results.pdf
+│
+└── Wireshark Packet Captures/
+    ├── DMVPNRealTest1.pcapng
+    ├── DMVPNRealTest2.pcapng
+    ├── DMVPNRealTest3.pcapng
+    ├── DMVPNRealTest4.pcapng
+    ├── DMVPNRealTest5.pcapng
+    ├── NoVPNRealTest1.pcapng
+    ├── NoVPNRealTest2.pcapng
+    ├── NoVPNRealTest3.pcapng
+    ├── NoVPNRealTest4.pcapng
+    ├── NoVPNRealTest5.pcapng
+    ├── S2S&DMVPNRealTest1.pcapng
+    ├── S2S&DMVPNRealTest2.pcapng
+    ├── S2S&DMVPNRealTest3.pcapng
+    ├── S2S&DMVPNRealTest4.pcapng
+    ├── S2S&DMVPNRealTest5.pcapng
+    ├── S2SRealTest1.pcapng
+    ├── S2SRealTest2.pcapng
+    ├── S2SRealTest3.pcapng
+    ├── S2SRealTest4.pcapng
+    ├── S2SRealTest5.pcapng
 ```
 
 ---
 
 ## Folder Description
 
-### 1. Packet Captures
-
-This folder contains Wireshark packet capture files collected during project testing.
-
-The packet capture files are used to analyse network traffic and support the testing evidence for the project.
-
-### 2. Python Source Code
+### 1. Python Source Code
 
 This folder contains the Python source code used in the project.
 
-The source code may include scripts for testing, automation, data processing, or result analysis.
+The source code may include scripts for system implementation, testing, automation, data processing, or result analysis.
 
-### 3. Results
+### 2. Results
 
 This folder contains the final testing results and supporting result documents.
 
-The files may include PDF reports and Excel files.
+The files in this folder may include PDF reports, Excel result summaries, screenshots, and other evidence used to support the project findings.
+
+### 3. Wireshark Packet Captures
+
+This folder contains Wireshark packet capture files collected during project testing.
+
+The packet capture files are used to analyse network traffic, observe communication behaviour, and validate the testing results.
 
 ---
 
@@ -74,8 +88,9 @@ The files may include PDF reports and Excel files.
 The evidence in this repository is organised based on the project testing workflow:
 
 1. Wireshark packet capture collection
-2. Python source code 
+2. Python source code implementation
 3. Result analysis
+
 
 ---
 
