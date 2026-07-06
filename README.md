@@ -37,26 +37,30 @@ ICCSCI2026/
 │   └── Results.pdf
 │
 └── Wireshark Packet Captures/
-    ├── DMVPNRealTest1.pcapng
-    ├── DMVPNRealTest2.pcapng
-    ├── DMVPNRealTest3.pcapng
-    ├── DMVPNRealTest4.pcapng
-    ├── DMVPNRealTest5.pcapng
-    ├── NoVPNRealTest1.pcapng
-    ├── NoVPNRealTest2.pcapng
-    ├── NoVPNRealTest3.pcapng
-    ├── NoVPNRealTest4.pcapng
-    ├── NoVPNRealTest5.pcapng
-    ├── S2S&DMVPNRealTest1.pcapng
-    ├── S2S&DMVPNRealTest2.pcapng
-    ├── S2S&DMVPNRealTest3.pcapng
-    ├── S2S&DMVPNRealTest4.pcapng
-    ├── S2S&DMVPNRealTest5.pcapng
-    ├── S2SRealTest1.pcapng
-    ├── S2SRealTest2.pcapng
-    ├── S2SRealTest3.pcapng
-    ├── S2SRealTest4.pcapng
-    ├── S2SRealTest5.pcapng
+    ├── DMVPN
+    │   ├── DMVPNRealTest1.pcapng
+    │   ├── DMVPNRealTest2.pcapng
+    │   ├── DMVPNRealTest3.pcapng
+    │   ├── DMVPNRealTest4.pcapng
+    │   └── DMVPNRealTest5.pcapng
+    ├── Hybrid
+    │   ├── HybridTest1.pcapng
+    │   ├── HybridTest2.pcapng
+    │   ├── HybridTest3.pcapng
+    │   ├── HybridTest4.pcapng
+    │   └── HybridTest5.pcapng
+    ├── NoVPN
+    │   ├── NoVPNRealTest1.pcapng
+    │   ├── NoVPNRealTest2.pcapng
+    │   ├── NoVPNRealTest3.pcapng
+    │   ├── NoVPNRealTest4.pcapng
+    │   └── NoVPNRealTest5.pcapng    
+    └── S2SVPN
+        ├── S2SVPNTest1.pcapng
+        ├── S2SVPNTest2.pcapng
+        ├── S2SVPNTest3.pcapng
+        ├── S2SVPNTest4.pcapng
+        └── S2SVPNTest5.pcapng
 ```
 
 ---
